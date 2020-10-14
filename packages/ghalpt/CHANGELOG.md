@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/mihkeleidast/github-actions-lerna-publish-test/compare/@mihkeleidast/ghalpt@0.3.0...@mihkeleidast/ghalpt@0.3.1) (2020-10-14)
+
+
+### Bug Fixes
+
+* add publish config ([f0dd1ce](https://github.com/mihkeleidast/github-actions-lerna-publish-test/commit/f0dd1cea8a18ad5c6e20d54296e0f30d6e6aa3f7))
+
+
+
+
+
 # [0.3.0](https://github.com/mihkeleidast/github-actions-lerna-publish-test/compare/@mihkeleidast/ghalpt@0.2.0...@mihkeleidast/ghalpt@0.3.0) (2020-10-14)
 
 
