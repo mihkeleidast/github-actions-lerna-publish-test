@@ -1,6 +1,6 @@
 {
   "name": "@mihkeleidast/ghalpt",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "main": "src/index.js",
   "dependencies": {
     "@allmarkedup/fang": "^1.0.0",
