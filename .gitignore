@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+coverage
+dist
+/example/*
+/build/*
+/fractal.js
+.idea/
+.nyc_output

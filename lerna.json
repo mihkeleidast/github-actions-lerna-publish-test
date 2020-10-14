@@ -1,0 +1,10 @@
+{
+  "command": {
+    "version": {
+      "allowBranch": "main",
+      "message": "chore: publish"
+    }
+  },
+  "packages": ["packages/*", "examples/*"],
+  "version": "independent"
+}
