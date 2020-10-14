@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/mihkeleidast/github-actions-lerna-publish-test/compare/@mihkeleidast/ghalpt@0.2.0...@mihkeleidast/ghalpt@0.3.0) (2020-10-14)
+
+
+### Features
+
+* add console.log 4 ([40665cc](https://github.com/mihkeleidast/github-actions-lerna-publish-test/commit/40665cc0ed2c4548c21eae01affc9b7d63f7c78e))
+
+
+
+
+
 # [0.2.0](https://github.com/mihkeleidast/github-actions-lerna-publish-test/compare/@mihkeleidast/ghalpt@0.1.0...@mihkeleidast/ghalpt@0.2.0) (2020-10-14)
 
 
